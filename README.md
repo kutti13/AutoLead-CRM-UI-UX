@@ -21,8 +21,5 @@ AutoLead CRM is a Lead Management application designed for HSR Motors using Figm
 ## 📄 Assignment
 The project documentation is included in this repository.
 
-## 🔗 Figma Prototype
-(Paste your Figma link here)
-
 ## 👩‍💻 Author
 **Sumana Shree C S**
